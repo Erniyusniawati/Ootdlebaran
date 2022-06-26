@@ -1,0 +1,183 @@
+.navbar-brand{
+    font-family: 'montserrat';
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.nav-item{
+    font-family:'montserrat';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.nav-item .nav-link.active {
+    font-weight: 600;
+    color: #7E6464 !important
+}
+
+.nav-link {
+    color: grey !important
+}
+
+.nav-link:hover {
+    color: #7E6464 !important
+}
+
+.nav1-item{
+    font-family:'merriweather';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+}
+   
+    .nav1-item .nav1-link.active {
+        font-weight: 600;
+        color: #7E6464 !important
+    }
+    
+    .nav1-link {
+        color: grey !important
+    }
+    
+    .nav1-link:hover {
+        color: #7E6464 !important
+    }
+
+.nav2-item{
+        font-family:'Poppins';
+        font-weight: 600;
+        font-size: 65px;
+        line-height: 50px;
+    }
+.nav2-link {
+    color: #7E6464 !important;
+}
+.nav3-item{
+    font-family:'Poppins';
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+}
+.nav3-link {
+color: #7E6464 !important;
+}
+
+.products-text.mb-2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #7E6464;
+}
+.products-price{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #615959;
+}
+
+.col-lg-8{
+    font-family: 'Poppins';
+    color: #615959;
+}
+
+.col-lg-15{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: black;
+}
+
+.col-lg-50 {
+font-family:'merriweather';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 20px;
+color: black;
+}
+.booking-title{
+font-family:'poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 20px;
+color: black;
+}
+.form-control{
+font-family:'poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 20px;
+color:#7E6464 ;
+}
+.booking-title{
+font-family:'poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+color:black;
+}
+
+.nav3-item{
+    font-family:'merriweather';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+}
+
+.nav3-item .nav3-link.active {
+    font-weight: 600;
+    color: #7E6464 !important
+}
+
+.nav3-link {
+    color: grey !important
+}
+
+.nav3-link:hover {
+    color: #7E6464 !important
+}
+
+.title-booking1{
+    font-family:'poppins';
+    font-style: normal;
+    font-weight: 15px;
+    font-size:20px;
+    line-height: 10px;
+    color:black;
+    }
+    .col-12{
+        font-family:'montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 16px;
+        color: black;
+        }
+    .col-md-1{
+    width: 673.03px;
+    height: 30px;
+    }
+
+    .title-booking2{
+        font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 37px;
+    text-align: center;
+    color: #AA9D9D
+
+    }
+   
